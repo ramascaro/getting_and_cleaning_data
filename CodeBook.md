@@ -36,10 +36,10 @@ Information about the features is available in `features_info.txt`.
 * `test`: data set with 'test' info combined.
 * `combined`: data set with 'trains' and 'test' info combined.
 * `meanstdcols`: contains "mean()" or "std()" (the other column names were removed).
-* `tidy`: final tidy data set that is written to a csv file.
+* `tidy`: final tidy data set that is written to a txt file.
 
 ### Output File
-* [tidy_dataset.csv](tidy_dataset.csv): Output file containing the tidy data set.
+* [tidy_dataset.txt](tidy_dataset.txt): Output file containing the tidy data set.
 
 ### Author
 * `Raúl Mascaró (ramascaro@gmail.com)`:

@@ -11,6 +11,6 @@ To complete The Course Project for [Getting and Cleaning Data](https://www.cours
 
 **Run the R script ([run_analysis.R](run_analysis.R)).** [reshape2 package](http://cran.r-project.org/web/packages/reshape2/index.html) is required, but installation is included in the script if necessary.
 
-**Output: A tidy data set, [tidy_dataset.csv](tidy_dataset.csv).**
+**Output: A tidy data set, [tidy_dataset.txt](tidy_dataset.txt).**
 
 More information in the [Code Book](CodeBook.md).
